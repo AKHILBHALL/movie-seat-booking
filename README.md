@@ -17,6 +17,8 @@ Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat
 
 [Movie-Seats-Booking](https://gamejutsu-movie-seats.netlify.app)
 
+![](assets/demo/demo.gif)
+
 ## Authors
 
 * **Kumar Vaibhav** - *Initial work* - [GameJutsu](https://github.com/gamejutsu)
